@@ -12,7 +12,7 @@
 		2BE508551E09B27500C281F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BE508531E09B27500C281F1 /* Main.storyboard */; };
 		2BE508571E09B27500C281F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BE508561E09B27500C281F1 /* Assets.xcassets */; };
 		2BE5085A1E09B27500C281F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BE508581E09B27500C281F1 /* LaunchScreen.storyboard */; };
-		2BE508621E09B52300C281F1 /* cufyw1c97w8-pawel-kadysz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BE508611E09B52300C281F1 /* cufyw1c97w8-pawel-kadysz.jpg */; };
+		2BEAA4DF1E09CC5C0071AEFD /* cufyw1c97w8-pawel-kadysz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BEAA4DE1E09CC5C0071AEFD /* cufyw1c97w8-pawel-kadysz.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		2BE508561E09B27500C281F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2BE508591E09B27500C281F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2BE5085B1E09B27500C281F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2BE508611E09B52300C281F1 /* cufyw1c97w8-pawel-kadysz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "cufyw1c97w8-pawel-kadysz.jpg"; path = "../../../../cufyw1c97w8-pawel-kadysz.jpg"; sourceTree = "<group>"; };
+		2BEAA4DE1E09CC5C0071AEFD /* cufyw1c97w8-pawel-kadysz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cufyw1c97w8-pawel-kadysz.jpg"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 				2BE5084F1E09B27500C281F1 /* AppDelegate.swift */,
 				2BE508511E09B27500C281F1 /* ViewController.swift */,
 				2BE508531E09B27500C281F1 /* Main.storyboard */,
-				2BE508611E09B52300C281F1 /* cufyw1c97w8-pawel-kadysz.jpg */,
+				2BEAA4DE1E09CC5C0071AEFD /* cufyw1c97w8-pawel-kadysz.jpg */,
 				2BE508561E09B27500C281F1 /* Assets.xcassets */,
 				2BE508581E09B27500C281F1 /* LaunchScreen.storyboard */,
 				2BE5085B1E09B27500C281F1 /* Info.plist */,
@@ -127,7 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2BE5085A1E09B27500C281F1 /* LaunchScreen.storyboard in Resources */,
-				2BE508621E09B52300C281F1 /* cufyw1c97w8-pawel-kadysz.jpg in Resources */,
+				2BEAA4DF1E09CC5C0071AEFD /* cufyw1c97w8-pawel-kadysz.jpg in Resources */,
 				2BE508571E09B27500C281F1 /* Assets.xcassets in Resources */,
 				2BE508551E09B27500C281F1 /* Main.storyboard in Resources */,
 			);
@@ -301,6 +301,7 @@
 				2BE508601E09B27500C281F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
