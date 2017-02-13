@@ -1,1 +1,2 @@
-# How Many Fingers iOS game project
+# How many fingers game
+  * iOS project
